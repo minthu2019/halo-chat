@@ -54,6 +54,7 @@ const Profile = () => {
     }
   };
 
+  
   return loading ? (
     <Loader />
   ) : (
