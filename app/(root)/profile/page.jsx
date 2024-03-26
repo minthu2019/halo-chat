@@ -53,6 +53,7 @@ const Profile = () => {
       console.log(error);
     }
   };
+  
 
   return loading ? (
     <Loader />
